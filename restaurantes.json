@@ -1,0 +1,269 @@
+{
+    "restaurantes": [
+        {
+            "id": 1,
+            "Nombre": "El Vasquito",
+            "Apertura": 2001,
+            "Ubicacion":{
+                "Latitud": -34.611700585142735,
+                "Longitud":  -58.430357731474196
+            },
+            "Dueños": [
+                "Mario Areta", "Peer Leches", "Carlos Villareal"
+            ],
+            "Logo": "https://i.imgur.com/x0svsXz.png",
+            "Menu": {
+                "Entrada": {
+                    "Nombre": "Empanaditas de lengua de calamar",
+                    "Precio": 150.00
+                },
+                "Plato Principal": {
+                    "Nombre": "Cabeza de toro",
+                    "Precio": 350.00
+                },
+                "Postre": {
+                    "Nombre": "Empanada de laxante a la portuguesa",
+                    "Precio": 100.00
+                }
+            },
+            "Reseñas": [
+                {
+                    "NombreUsuario": "Carlitos62",
+                    "Valoracion": 4,
+                    "Descripcion": "Muy recomendable! Muy buena atención",
+                    "Votos Positivos": 25
+                },
+                {
+                    "NombreUsuario": "FreddoMercurio",
+                    "Valoracion": 1,
+                    "Descripcion": "No vengo más a este lugar. Había una cucaracha en las empanadas de queso y las de carne estaban ácidas",
+                    "Votos Positivos": 0
+                },
+                {
+                    "NombreUsuario": "MessiMessiMessi",
+                    "Valoracion": 3,
+                    "Descripcion": "Aceptable, la comida buena pero bastante cara. La atención mejorable",
+                    "Votos Positivos": 5
+                },
+                {
+                    "NombreUsuario": "ItalPark69",
+                    "Valoracion": 5,
+                    "Descripcion": "Excelente. Simplemente buenardo",
+                    "Votos Positivos": 420
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Nombre": "Gra-Hu Poyin",
+            "Apertura": 1929,
+            "Ubicacion":{
+                "Latitud": -34.610743989454924,
+                "Longitud": -58.430166623290184
+            },
+            "Dueños": [
+                "Spiderman", "Batman", "El Guasón", "Alfred"
+            ],
+            "Logo": "https://i.imgur.com/KlttMKa.jpg",
+            "Menu": {
+                "Entrada": {
+                    "Nombre": "Sanguche de milanesa con restos de aceite",
+                    "Precio": 300.00
+                },
+                "Plato Principal": {
+                    "Nombre": "Pollo al spiedo con mayonesa",
+                    "Precio": 720.00
+                },
+                "Postre": {
+                    "Nombre": "Helado de carne con brownie",
+                    "Precio": 149.59
+                }
+            },
+            "Reseñas": [
+                {
+                    "NombreUsuario": "Sandra",
+                    "Valoracion": 5,
+                    "Descripcion": "Excelente mercaderia! Hasta ahora probé sándwich de mila y pollo al spiedo y las papas fritas súper frescas y la atención de los delivery muy buena simpáticos y serviciales",
+                    "Votos Positivos": 15
+                },
+                {
+                    "NombreUsuario": "Daniel",
+                    "Valoracion": 1,
+                    "Descripcion": "Papas marcadas y aceitosas, pollo con huesos negros no volvería, venden pero no son de oficio",
+                    "Votos Positivos": 7
+                },
+                {
+                    "NombreUsuario": "Christian",
+                    "Valoracion": 4,
+                    "Descripcion": "En par de ocasiones he comprado comida en este sitio y en la relación de calidad/precio es bastante acorde. El pollo se los podes pedir a los chicos según el nivel de cocción que prefieras, ricas fritas y ensaladas. Siempre muy fresco todo. Solo aceptan Efectivo",
+                    "Votos Positivos": 20
+                },
+                {
+                    "NombreUsuario": "Javier",
+                    "Valoracion": 3,
+                    "Descripcion": "Mi duda es si está habilitado y si respeta los controles de sanidad para vender alimentos. El pollo de sabor es bueno, pero el tamaño es símil paloma.",
+                    "Votos Positivos": 100
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "Nombre": "La Matildita",
+            "Apertura": 1946,
+            "Ubicacion":{
+                "Latitud": -34.60848928852674,
+                "Longitud": -58.42771795008954
+            },
+            "Dueños": [
+                "Matilda", "Matías Bottero", "Jorge Real", "Agustín Marcos Roboto"
+            ],
+            "Logo": "https://i.imgur.com/rgOzEkx.png",
+            "Menu": {
+                "Entrada": {
+                    "Nombre": "Ñoquis con salsa rosa",
+                    "Precio": 157.25
+                },
+                "Plato Principal": {
+                    "Nombre": "Tirabuzones a la crema",
+                    "Precio": 425.00
+                },
+                "Postre": {
+                    "Nombre": "Almendrado de guistantes",
+                    "Precio": 412.50
+                }
+            },
+            "Reseñas": [
+                {
+                    "NombreUsuario": "Johanna",
+                    "Valoracion": 5,
+                    "Descripcion": "Las mejores pastas y tartas/empanadas. Tienen más opciones de comida y postres. Calidad 100%",
+                    "Votos Positivos": 1
+                },
+                {
+                    "NombreUsuario": "Alberto",
+                    "Valoracion": 1,
+                    "Descripcion": "Por ser domingo; dia que mas trabaja una fabrica de pastas; me llevo una sorpresa; muy poca variedad de mercaderia; siendo las 1000 hs AM; se nota la ausencia de su dueño a la cabeza del negocio",
+                    "Votos Positivos": 2
+                },
+                {
+                    "NombreUsuario": "Susi",
+                    "Valoracion": 5,
+                    "Descripcion": "Muy Buena pasta, làstima que la que te cobra siempre siempre esta con cara de pocos amigos. Las empleadas de primera",
+                    "Votos Positivos": 16
+                },
+                {
+                    "NombreUsuario": "AURELIA",
+                    "Valoracion": 4,
+                    "Descripcion": "Soy Asidua Compradora de Los Ravioles Cada Domingo Vompro. Tres Cuatro. Hasta Cinco Cajas Ya Que Comen Mis Nietos. Tambien en Dias De Semana.",
+                    "Votos Positivos": 100
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "Nombre": "Parrila 83",
+            "Apertura": 1883,
+            "Ubicacion":{
+                "Latitud":-34.60840215492955, 
+                "Longitud": -58.42755767349475
+            },
+            "Dueños": [
+                "Carlitos Balá", "Diego Maradona", "Rick Astley"
+            ],
+            "Logo": "http://parrilla83.com/images/1607450472884.png",
+            "Menu": {
+                "Entrada": {
+                    "Nombre": "Sanguche de entraña con chimi",
+                    "Precio": 160.00
+                },
+                "Plato Principal": {
+                    "Nombre": "Tira de asado a las brasas",
+                    "Precio": 658.00
+                },
+                "Postre": {
+                    "Nombre": "Duraznos en almibar",
+                    "Precio": 100.00
+                }
+            },
+            "Reseñas": [
+                {
+                    "NombreUsuario": "Nadia Fernández",
+                    "Valoracion": 5,
+                    "Descripcion": "La carne es espectacular.Buena atención.Lindo lugar para darse un gustito y pasar tiempo con la familia",
+                    "Votos Positivos": 6
+                },
+                {
+                    "NombreUsuario": "Oscar De la Vega",
+                    "Valoracion": 5,
+                    "Descripcion": "La mejor parrilla del mundo !!",
+                    "Votos Positivos": 0
+                },
+                {
+                    "NombreUsuario": "D!",
+                    "Valoracion": 4,
+                    "Descripcion": "La parrilla es una buena combinación de precio/ performance. Muy buena la provoleta y la bondiola.",
+                    "Votos Positivos": 10
+                },
+                {
+                    "NombreUsuario": "Pablo Schneider",
+                    "Valoracion": 2,
+                    "Descripcion": "Venir antes de las 12 o despues de las 13 en la semana. Sino está lleno de pibes...",
+                    "Votos Positivos": 54
+                }
+            ]
+        },   
+        {
+            "id": 5,
+            "Nombre": "Lo de Lili (R.I.P.)",
+            "Apertura": 1950,
+            "Ubicacion":{
+                "Latitud":-34.61036405182659, 
+                "Longitud": -58.43006533863216
+            },
+            "Dueños": [
+                "Lili"
+            ],
+            "Logo": "https://lh3.googleusercontent.com/xpY-At1pwvAQmUuQQ_gqOSQ-TH1VrP_qVk1cjnbW0k2Qm6oERaEYplEYgJE7T10kD4itf8Pj=w1080-h608-p-no-v0",
+            "Menu": {
+                "Entrada": {
+                    "Nombre": "Cono de papas",
+                    "Precio": 140.00
+                },
+                "Plato Principal": {
+                    "Nombre": "Cono de papas",
+                    "Precio": 140.00
+                },
+                "Postre": {
+                    "Nombre": "Cono de papas",
+                    "Precio": 140.00
+                }
+            },
+            "Reseñas": [
+                {
+                    "NombreUsuario": "Sofia Mercado",
+                    "Valoracion": 5,
+                    "Descripcion": "La comida 10 puntos, el lugar encantador, la atención 1000 puntos!!",
+                    "Votos Positivos": 10
+                },
+                {
+                    "NombreUsuario": "Melina Noelia Brancato",
+                    "Valoracion": 4,
+                    "Descripcion": "Los dueños son geniales",
+                    "Votos Positivos": 42069
+                },
+                {
+                    "NombreUsuario": "Andrea B",
+                    "Valoracion": 2,
+                    "Descripcion": "Entramos y no había nadie sentado en ninguna mesa. Preguntamos si podíamos encargar para llevar y nos dijeron que si. Cualquier cosa de la carta. Pedimos unas truchas al limón con papas fritas. Nos dicen... 10 minutos... En definitiva estuvimos esperando 50 minutos. Las papas salieron 15 minutos antes de las truchas por lo que llegaron frías. Y las truchas eran muyyy chiquititas y llenas de espinas. Y muy caro para lo que fue. No se realmente que pasó ya que eran tres personas en la cocina para atendernos solo a nosotros...",
+                    "Votos Positivos": 7
+                },
+                {
+                    "NombreUsuario": "Ivana T",
+                    "Valoracion": 4,
+                    "Descripcion": "Compramos sandwich de milanesa y papas fritas para llevar. En 20 minutos estaba todo listo. Muy rico y a buen precio.",
+                    "Votos Positivos": 78
+                }
+            ]
+        }
+    ]
+}
